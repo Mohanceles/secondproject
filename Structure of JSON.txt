@@ -1,0 +1,11 @@
+{
+"name" :"eswar"
+"native" :"salem pettarap"
+"age" : "24"
+"hobbies" :"playing with girls life"
+"gender" :"male"
+"goals" :"want to marriage,video creater"
+"ph.no" :"6374048812"
+"married" :"with in a week"
+"no of kids" :"still planning".
+}
