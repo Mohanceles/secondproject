@@ -2,10 +2,10 @@
 "name" :"eswar"
 "native" :"salem pettarap"
 "age" : "24"
-"hobbies" :"playing with girls life"
+"hobbies" :"playing cricket & chess & carrom"
 "gender" :"male"
-"goals" :"want to marriage,video creater"
+"goals" :"to get a best employee award"
 "ph.no" :"6374048812"
-"married" :"with in a week"
-"no of kids" :"still planning".
+"married" :"waiting for client acceptance "
+"no of kids" :"high severity,p1".
 }
